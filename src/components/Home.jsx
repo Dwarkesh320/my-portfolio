@@ -154,9 +154,9 @@ const Home = () => {
                 <div className="about" name="more">
                     <div>
                         <h1 data-aos="fade-left">About my <span>WORK</span></h1>
-                        <p data-aos="fade-right">I’m a passionate web developer with hands-on experience building 5+ full-stack projects using modern technologies like<span>React.js</span>,<span>Node.js</span>,<span>MongoDB</span>,and<span> Firebase</span>. My projects focus on functionality,performance, and user experience,often featuring secure user authentication and seamless third-party integrations via npm packages and development tools.
-                                                I design fully responsive interfaces using CSS3 and Tailwind CSS, ensuring optimal performance across devices. Some of my featured projects include like a<span>React Weather App</span>,<span>Real-Time-Chat-App</span>,<span>Kings Cricket Live App</span>,<span>Movies-Flex</span>,<span>Todo-Schedule App</span>
-                                             Each project reflects my commitment to clean code, intuitive design, and solving real-world problems through technology.
+                        <p data-aos="fade-right">I’m a passionate web developer with hands-on experience building 5+ full-stack projects using modern technologies like <span>React.js</span>, <span>Node.js</span>, <span>MongoDB</span>, and<span> Firebase</span>. My projects focus on functionality,performance, and user experience,often featuring secure user authentication and seamless third-party integrations via npm packages and development tools.
+                                                I design fully responsive interfaces using CSS3 and Tailwind CSS, ensuring optimal performance across devices. Some of my featured projects include like <span>React Weather App</span>, <span>Real-Time-Chat-App</span>, <span>Kings Cricket Live App</span>, <span>Movies-Flex</span>, <span>Todo-Schedule App</span>,
+                                               Each project reflects my commitment to clean code, intuitive design, and solving real-world problems through technology.
                         </p>
                         <img  data-aos="fade-up-left" src="https://cdn.dribbble.com/users/2403158/screenshots/5841419/how_to_get_support_2.gif" alt="" />
                     </div>
