@@ -4,6 +4,7 @@ import cv from '../components/assets/Db_resume.pdf'
 import * as Scroll from 'react-scroll';
 import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
 //import 'boxicons'
+import img from  '../components/images/persnol 1.jpg'
 
 import { IoMenu } from "react-icons/io5";
 import { HiOutlineX } from "react-icons/hi";
@@ -20,7 +21,9 @@ const Navbar = () => {
     return ( 
         <nav>
             <div className="logo">
+                 <img src={img} alt="" style={{height:"30px", width:"30px",borderRadius:"50px",border:"2px solid #94ffa1" }} />
                 <Link to="/"><h1>Dwarkesh</h1></Link>
+               
                     
             </div>
             

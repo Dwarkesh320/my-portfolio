@@ -31,6 +31,10 @@ hr{
 .hamberger{
   display: none;
 }
+.logo{
+  display: flex;
+  align-items: center;
+}
 .logo h1{
   font-family: 'Tourney', cursive;
   /* background: -webkit-linear-gradient( #b6fefe,#b6fefe,#518fe6); */
@@ -42,7 +46,10 @@ hr{
 .logo h1:hover{
   color:#94ffa1;
 }
-
+.logo img{
+  margin-right: 10px;
+ 
+}
 
 /* desktop */
 @media (min-width:1200px) 
@@ -2466,6 +2473,7 @@ hr{
     box-shadow: 0 25px 50px rgba(0,0,0,0.55);
     cursor: pointer;
     transition: all .3s;
+    border: 1px solid #94ffa1;
   }
 
   .card_box:hover {
