@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 // import { Link } from "react-router-dom";
-import cv from '../components/assets/Db_resume.pdf'
+import cv from '../components/assets/D_React_cv.pdf'
 import * as Scroll from 'react-scroll';
 import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
 //import 'boxicons'
