@@ -4,7 +4,7 @@ import cv from '../components/assets/D_React_cv.pdf'
 import * as Scroll from 'react-scroll';
 import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
 //import 'boxicons'
-import img from  '../components/images/persnol 1.jpg'
+import img from  '../components/images/cropped_circle_image.png'
 
 import { IoMenu } from "react-icons/io5";
 import { HiOutlineX } from "react-icons/hi";
